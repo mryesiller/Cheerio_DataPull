@@ -1,0 +1,15 @@
+{
+  "name": "data_scrap",
+  "version": "1.0.0",
+  "description": "Data pull with cheerio and axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mryesiller",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
